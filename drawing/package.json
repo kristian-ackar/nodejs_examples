@@ -1,0 +1,12 @@
+{
+  "name": "socket.io_example",
+  "version": "1.0.0",
+  "description": "An example app to illustrate the usage of Node.js socket.io me module in real time collaboration",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "socket.io": "1.4.x",
+    "node-static": "0.7.x"
+  }
+}

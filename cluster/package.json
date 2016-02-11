@@ -1,0 +1,11 @@
+{
+  "name": "clustering_example",
+  "version": "1.0.0",
+  "description": "An example module to illustrate the usage of Node.js cluster core module",
+  "scripts": {
+    "start": "node server_in_cluster.js"
+  },
+  "dependencies": {
+    "express": "4.2.x"
+  }
+}
